@@ -1,0 +1,6 @@
+.home_details{
+    display: flex;
+    align-items: center;
+    flex-flow: column nowrap;
+    gap: 50px;
+}
