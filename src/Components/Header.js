@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className='header_section'>
 
-       <h1>Header</h1> 
+       <h1>Test</h1> 
       
     </div>
   )

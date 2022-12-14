@@ -16,7 +16,7 @@ const Login = (props) => {
     e.preventDefault();
     setEmailValue("");
     setPassvalue("");
-    if (emailValue == "sandipmondal00@gmail.com" && passValue == "password") {
+    if (emailValue === "sandipmondal00@gmail.com" && passValue === "password") {
       navigate('/',true)
 
     }else{
